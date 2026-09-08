@@ -14,7 +14,7 @@
 #### About me !
 
 - 🥰 My name is Thanutham.
-- 👀 I’m currently interested in DevOps, AI, HPC and Linux!
+- 👀 I’m currently interested in DevOps, AI, HPC, Containerization, Virtualization and Linux!
 - 📫 How to reach me thanutham.tn@gmail.com
 
 
