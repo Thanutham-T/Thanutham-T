@@ -1,29 +1,35 @@
-# Hi everyone :wave:
+## About me
+I am a Computer Engineering graduate from Prince of Songkla University, currently working as a Junior System Engineer. I recently completed an SRE Internship at INOX, where I built an AIOps agent that integrates LLMs into Zabbix incident management via Slack.
 
-## I’m currently learning as a Computer Engineering Student 🌱 @ [Gitlab](https://gitlab.psu.ac.th/6510110166).
+I'm based in Bangkok, Thailand, where I focus on Infrastructure, Cloud, Automation, and AI Integration — combining hands-on Linux/container administration with LLM-based tooling to make incident response faster and less manual.
 
+My passion is bridging traditional infrastructure work with practical AI integration — building tools that make systems easier to monitor, diagnose, and maintain.
 
-<details>
+## Tech stack
+![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![gcp](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![vmware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![mysql](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<summary>
-  More stuff about me
-</summary>
+## Highlights
+- 🤖 Built a proof-of-concept AIOps agent (FastMCP + Dify RAG + self-hosted vLLM) for Zabbix incident diagnosis via Slack — SRE Internship, INOX
+- 🖥️ Automated a Raspberry Pi HPC cluster with Ansible + SLURM
+- 🐳 Built a Dockerized Apache Spark environment on a YARN-managed cluster
+- 🏆 Competitor, Thailand Cyber Top Talent (2023 & 2024) — national cybersecurity challenges by NCSA & Huawei
+- 🎓 Instructor at Prince of Songkla University training camps (2024 & 2025)
+- 📜 Certified: Introduction to Kubernetes (LFS158, The Linux Foundation); Cisco Networking Certification
 
-## Quick overview
+## Contact me
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)][linkedin]
+[![github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)][github]
+[![medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)][medium]
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)][gmail]
 
-#### About me !
-
-- 🥰 My name is Thanutham.
-- 👀 I’m currently interested in DevOps, AI, HPC, Containerization, Virtualization and Linux!
-- 📫 How to reach me thanutham.tn@gmail.com
-
-
-### My skills (Learner) 📜
-
-<p align="left"><a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="SQL" /></a><a href="https://store.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a></p>
-
-</details>
-<!---
-Thanutham-T/Thanutham-T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[linkedin]: https://linkedin.com/in/Thanutham-Tuktian
+[github]: https://github.com/Thanutham-T
+[medium]: https://medium.com/@thanutham.tn
+[gmail]: mailto:thanutham.tn@gmail.com
