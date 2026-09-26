@@ -19,6 +19,7 @@ My passion is bridging traditional infrastructure work with practical AI integra
 
 ## Highlights
 - 🤖 Built a proof-of-concept AIOps agent (FastMCP + Dify RAG + self-hosted vLLM) for Zabbix incident diagnosis via Slack — SRE Internship, INOX
+- 🚀 Built a FastAPI backend for Unisphere (Flutter campus life app) with a Jenkins CI/CD pipeline — automated tests, SonarQube quality gating, and scaled Docker deployment
 - 🖥️ Automated a Raspberry Pi HPC cluster with Ansible + SLURM
 - 🐳 Built a Dockerized Apache Spark environment on a YARN-managed cluster
 - 🏆 Competitor, Thailand Cyber Top Talent (2023 & 2024) — national cybersecurity challenges by NCSA & Huawei
